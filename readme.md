@@ -24,9 +24,8 @@
 </div>
 
 <div align="center">
-  <h2>🚀 Github Commits and Projects Showcase</h2>
+  <h2>🚀 Github and Projects Showcase</h2>
     <p>This section highlights Github commits and all notable projects I have done in the past or the projects I am currently working on.</p>
-    <img src="https://raw.githubusercontent.com/ibnahzab/ibnahzab/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <!-- <img src="https://raw.githubusercontent.com/ibnahzab/ibnahzab/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/> -->
     <div class="mySlides fade">
         <a href="https://github.com/digiboy-industries/smartboy-GUI">

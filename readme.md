@@ -1,6 +1,5 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Ashar's Github" alt="Typing SVG"/></h1>
-    
+    <h1>Aviezab's Github Page</h1>
 </div>
 
 <div align="center">
@@ -18,7 +17,7 @@
   <a href="https://www.linkedin.com/in/aviezab">
     <img src="https://img.shields.io/badge/LinkedIn: Ashar-BBBBB5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<a href="https://github.com/ibnahzab/ibnahzab" target="_blank">
+<a href="https://github.com/ibnahzab" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 <!-- <img src="https://komarev.com/ghpvc/?username=ibnahzab&style=for-the-badge" alt="Profile views" /> -->
